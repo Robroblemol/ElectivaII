@@ -15,3 +15,8 @@ div.gallery {
     float: left;
     width: 250px;
 }
+.imgProfield{
+    max-width: 25%;
+     float: left;
+     margin-right: 1em;
+}
