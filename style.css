@@ -15,8 +15,23 @@ div.gallery {
     float: left;
     width: 250px;
 }
+div.gallery2 {
+    margin: 5px;*/
+    border: 1px solid #ccc;
+    float: left;
+    width: 150px;
+}
+div.gallery2 img {
+    width: 100%;
+    height: auto;
+}
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
 .imgProfield{
-    max-width: 25%;
+    max-width: 17%;
      float: left;
      margin-right: 1em;
 }
