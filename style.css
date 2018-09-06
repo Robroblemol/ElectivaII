@@ -45,3 +45,10 @@ div.gallery img {
 div.card-body {
 text-align:center;
 }
+
+p {
+    width: 90%;
+    border: 2px;
+    padding: 10px;
+    text-align:justify;
+}
